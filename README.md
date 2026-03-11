@@ -1,5 +1,5 @@
 
-# KCAAAP
+# Pet Adoption App
 
 ## Description
 A desktop application built with C++ and Qt, implementing Undo/Redo functionality and dynamic table views. Developed as a university project for the Object Oriented Programming course to practice Qt GUI development, MVC architecture, and design patterns.
@@ -14,3 +14,4 @@ A desktop application built with C++ and Qt, implementing Undo/Redo functionalit
 - Dynamic table views with QAbstractTableModel
 - Clear separation of interface and logic
 - Efficient memory management
+
